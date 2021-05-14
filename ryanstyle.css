@@ -1,0 +1,17 @@
+li{font-size:170%;}
+
+#first{
+    color:palevioletred;
+    font-weight: bold;
+}
+#second{
+    color:rgb(255, 207, 74);
+    font-style:italic;
+}
+#third{
+    color:rgb(174, 255, 81);
+    font-style:normal;
+}
+.half_highlight{
+    background: linear-gradient(to top, #fdd172 20%, transparent 30%);
+}
